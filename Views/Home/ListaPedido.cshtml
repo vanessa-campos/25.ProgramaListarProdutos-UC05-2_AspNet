@@ -1,0 +1,26 @@
+@model List<ItemPedido>
+@{
+    ViewData["Title"] = "Lista Pedidos";
+}
+
+<div class="text-center">
+    <h2 class="display-4">Lista dos pedidos</h2>
+    <br>
+    <table border="2">
+        <tr>
+            <th>Descrição do produto</th>
+            <th>Valor Unitário</th>
+            <th>Quantidade</th>
+        </tr>
+        @foreach (ItemPedido item in Dados.PedidoAtual.ListaPedido())
+        {
+            <tr>
+                <td>@item.descricao</td>
+                <td>@item.valorUnitario</td>
+                <td>@item.quantidade</td>
+            </tr>
+        }
+    </table>
+    <br>
+    <h5>Total de @Dados.PedidoAtual.TotalItensPedido() produtos por R$ @Dados.PedidoAtual.TotalValorPedido() reais</h5>
+</div>

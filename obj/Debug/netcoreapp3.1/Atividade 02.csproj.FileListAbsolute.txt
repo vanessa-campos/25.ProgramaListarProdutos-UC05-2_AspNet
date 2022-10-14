@@ -1,0 +1,38 @@
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.exe
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.deps.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.runtimeconfig.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.runtimeconfig.dev.json
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.dll
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.pdb
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.Views.dll
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\bin\Debug\netcoreapp3.1\Atividade 02.Views.pdb
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.csprojAssemblyReference.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.AssemblyInfoInputs.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.AssemblyInfo.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.csproj.CoreCompileInputs.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.MvcApplicationPartsAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.RazorAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.RazorAssemblyInfo.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.TagHelpers.input.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.TagHelpers.output.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.RazorCoreGenerate.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.RazorTargetAssemblyInfo.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.RazorTargetAssemblyInfo.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.Views.pdb
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 02.StaticWebAssets.Manifest.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\staticwebassets\Atividade 02.StaticWebAssets.xml
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.dll
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.pdb
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.genruntimeconfig.cache
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Atividade 02.csproj.CopyComplete
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Razor\Views\Home\CadastroPedido.cshtml.g.cs
+D:\Vanessa Campos\Documentos\.DOCS - VANESSA\EAD_TII\MA.UC05 - Codificar Aplicações Web\Atividade 02\obj\Debug\netcoreapp3.1\Razor\Views\Home\ListaPedido.cshtml.g.cs
